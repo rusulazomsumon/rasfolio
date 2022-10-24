@@ -488,7 +488,7 @@
     <!-- ======= ************* ======= -->
     <!-- =======  Blog ======= -->
     <!-- ======= ************* ======= -->
-    <section id="blog" class="services">
+    <section id="blog" class="blog">
       <div class="container">
 
         <div class="section-title">

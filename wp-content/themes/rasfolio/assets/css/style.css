@@ -826,6 +826,61 @@ section {
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #149ddd;
 }
+/*--------------------------------------------------------------
+# Blog
+--------------------------------------------------------------*/
+.blog .icon-box {
+  margin-bottom: 20px;
+}
+
+.blog .icon-box {
+  .icon {
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 54px;
+  height: 54px;
+  background: #149ddd;
+  border-radius: 50%;
+  transition: 0.5s;
+  border: 1px solid #149ddd;
+}
+
+.blog .icon i {
+  color: #fff;
+  font-size: 24px;
+  line-height: 0;
+}
+
+.blog .icon-box:hover .icon {
+  background: #fff;
+}
+
+.blog .icon-box:hover .icon i {
+  color: #149ddd;
+}
+
+.blog .title {
+  margin-left: 80px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.blog .title a {
+  color: #343a40;
+}
+
+.blog .title a:hover {
+  color: #149ddd;
+}
+
+.blog .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
 
 /*--------------------------------------------------------------
 # Contact
