@@ -23,7 +23,7 @@
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/img/rusulazomsumonysrhyb.png" class="img-fluid" alt="">
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/img/rusulazomxyzpic3.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>UI/UX Designer &amp; Web Developer.</h3>
@@ -516,7 +516,6 @@
             <h4 class="blog-title"><a href="">Lorem Ipsum</a></h4>
             <p class="blog-description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
           </div>
-          
         </div>
 
       </div>
