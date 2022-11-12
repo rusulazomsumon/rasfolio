@@ -11,13 +11,6 @@
   <!-- title will show from dynamicaly -->
   <meta content="" name="description">
   <meta content="" name="keywords">
-
-  <!-- =======================================================
-  * Template Name: iPortfolio - v3.9.1
-  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
   <!-- wp-head -->
   <?php wp_head(); ?>
 </head>

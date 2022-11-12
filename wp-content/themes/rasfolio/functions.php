@@ -6,8 +6,7 @@
     // dynamic site/page title
     function rasfolio_setup(){
         add_theme_support('title-tag');
-        add_theme_support('post-thumbnails', array('post'));
-
+        add_theme_support('post-thumbnails'); 
     }
     // hocks for title and others
     add_action('after_setup_theme','rasfolio_setup');
