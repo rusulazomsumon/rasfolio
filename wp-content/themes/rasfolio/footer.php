@@ -3,7 +3,7 @@
     <div class="container">
       <div class="copyright">
         &copy; Copyright <strong><span>RAS Daily</span></strong>
-        Developed by <a href="https://rusulazom.xyz/">Rusul Azom</a>
+        Developed by <a href="https://rusulazom.me/">Rusul Azom</a>
       </div>
     </div>
   </footer><!-- End  Footer -->
